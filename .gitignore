@@ -3,16 +3,3 @@
 .Rhistory
 .httr-oauth
 .DS_Store
-
-/.quarto/
-/website/slides/.quarto
-/website/_site/
-/_dev
-/.secrets
-/secrets
-
-level-up-shiny.Rcheck/
-level-up-shiny*.tar.gz
-level-up-shiny*.tgz
-
-/.luarc.json
