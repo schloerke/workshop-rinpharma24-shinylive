@@ -1,9 +1,9 @@
-# workshop-rinpharma24-shinylive
+# R/Pharma 2024 - {shinylive}: _Serverless_ Shiny applications workshop
 
-**Title:** `{shinylive}`: _Serverless_ Shiny applications workshop. An exercise in deploying your App to GitHub Pages
-Location: https://rinpharma.com/post/2024-10-13-workshops/
-Event: R/Pharma 2024 - https://rinpharma.com/post/2024-10-13-workshops/
-Slides: http://schloerke.com/workshop-rinpharma24-shinylive/
+**Title:** `{shinylive}`: _Serverless_ Shiny applications workshop. An exercise in deploying your App to GitHub Pages <br/>
+**Location:** https://rinpharma.com/post/2024-10-13-workshops/ <br/>
+**Event:** R/Pharma 2024 - https://rinpharma.com/post/2024-10-13-workshops/ <br/>
+**Slides:** http://schloerke.com/workshop-rinpharma24-shinylive/ <br/>
 
 ## Apps
 
